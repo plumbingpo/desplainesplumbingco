@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://desplainesplumbingco.com/sitemap.xml
